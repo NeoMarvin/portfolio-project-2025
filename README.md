@@ -49,7 +49,7 @@ I’m passionate about **web development, data engineering, and building project
 
 ## 📬 Contact
 
-* **Portfolio:** \[Deployed Site Link] (to be updated after deployment)
+* **Portfolio:** \[Deployed Site Link] (https://neomarvin.github.io/portfolio-project-2025/)
 * **Email:** [marvinadegbite12@gmail.com]
 * **GitHub:** \[github.com/NeoMarvin]
 
