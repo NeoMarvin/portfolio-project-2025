@@ -201,7 +201,7 @@ body {
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 200px) {
     .hero h2 {
         font-size: 2rem;
     }
@@ -213,3 +213,4 @@ body {
         padding: 15px;
     }
 }
+
